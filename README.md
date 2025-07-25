@@ -26,6 +26,10 @@ I'm a passionate software developer from Brazil 🇧🇷, currently studying **S
 
 Feel free to check out my repositories and connect!
 
-### 📊 GitHub Stats
+<h3 align="center">📊 My GitHub Stats</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalohenrique\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img width="410" src="https://github-readme-stats.vercel.app/api?username=goncalohenrique&show_icons=true&theme=tokyonight" alt="My GitHub Stats" />
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalohenrique&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
