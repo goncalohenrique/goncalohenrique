@@ -5,7 +5,7 @@ I'm a passionate software developer from Brazil 🇧🇷, currently studying **S
 
 ### 👨‍💻 About Me
 
-* 🔭 I'm currently focused on expanding my knowledge in **Python**, **  Docker** and **AWS Services**.
+* 🔭 I'm currently focused on expanding my knowledge in **Python**, **Docker** and **AWS Services**.
 * 💻 I enjoy building robust back-end systems, working with databases, and developing RESTful APIs.
 * 📚 Always learning and improving — I want to explore new technologies and help others along the way.
 * 🧑 Pronouns: he/him (ele/dele)
@@ -14,7 +14,7 @@ I'm a passionate software developer from Brazil 🇧🇷, currently studying **S
 ### 🛠️ Technologies I work with
 
 * **Languages & Frameworks**:
-  `Java`, `Spring Boot`, `C#`, `Python`, `HTML`, `CSS`
+  `Java`, `Spring Boot`, `C#`, `Python`, `Flutter`, `HTML`, `CSS`,
 
 * **Databases**:
   `SQL:` `MySQL`, `PostgreSQL`, `NoSQL:` `MongoDB`
@@ -29,7 +29,8 @@ Feel free to check out my repositories and connect!
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
-  <img width="410" height="180" src="https://github-readme-stats.vercel.app/api?username=goncalohenrique&show_icons=true&theme=tokyonight" alt="My GitHub Stats" />
   <img width="330" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalohenrique&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="410" height="180" src="https://github-readme-stats.vercel.app/api?username=goncalohenrique&show_icons=true&theme=tokyonight" alt="My GitHub Stats" />
+  
 </p>
 
