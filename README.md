@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Gonçalo!
+## 👋Opa, I'm Gonçalo!
 
 I'm a passionate software developer from Brazil 🇧🇷, currently studying **Software Engineering** at [PUCPR](https://www.pucpr.br/)(2025-current) in Curitiba. I completed my technical education in **Software Development** at [COTIL - UNICAMP](https://www.cotil.unicamp.br/)(2022-2024), where I laid the foundation for my programming journey.
 
