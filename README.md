@@ -4,23 +4,29 @@ I'm a passionate software developer from Brazil 🇧🇷, currently studying **S
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently focused on expanding my knowledge in **Docker** and **AWS Services**.
-- 💻 I enjoy building robust back-end systems, working with databases, and developing RESTful APIs.
-- 📚 Always learning and improving — I want to explore new technologies and help others along the way.
-- 🧑 Pronouns: he/him (ele/dele)
-- 🎂 I'm 18 years old
+* 🔭 I'm currently focused on expanding my knowledge in **Docker** and **AWS Services**.
+* 💻 I enjoy building robust back-end systems, working with databases, and developing RESTful APIs.
+* 📚 Always learning and improving — I want to explore new technologies and help others along the way.
+* 🧑 Pronouns: he/him (ele/dele)
+* 🎂 I'm 18 years old
 
 ### 🛠️ Technologies I work with
 
-- **Languages & Frameworks**:  
+* **Languages & Frameworks**:
   `Java`, `Spring Boot`, `C#`, `HTML`, `CSS`
 
-- **Databases**:  
+* **Databases**:
   `SQL:` `MySQL`, `PostgreSQL`, `NoSQL:` `MongoDB`
 
-- **Others**:  
+* **Others**:
   `RESTful APIs`, `Git`, `Docker (learning)`, `AWS (learning)`
 
 ---
 
 Feel free to check out my repositories and connect!
+
+### 📊 GitHub Stats
+
+![Gonçalo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goncalohenrique\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalohenrique\&layout=compact\&theme=tokyonight)
