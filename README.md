@@ -13,7 +13,7 @@ I'm a passionate software developer from Brazil 🇧🇷, currently studying **S
 ### 🛠️ Technologies I work with
 
 * **Languages & Frameworks**:
-  `Java`, `Spring Boot`, `C#`, `HTML`, `CSS`
+  `Java`, `Spring Boot`, `C#`, `Python`, `HTML`, `CSS`
 
 * **Databases**:
   `SQL:` `MySQL`, `PostgreSQL`, `NoSQL:` `MongoDB`
