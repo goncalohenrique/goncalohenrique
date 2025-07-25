@@ -4,7 +4,7 @@ I'm a passionate software developer from Brazil 🇧🇷, currently studying **S
 
 ### 👨‍💻 About Me
 
-* 🔭 I'm currently focused on expanding my knowledge in **Docker** and **AWS Services**.
+* 🔭 I'm currently focused on expanding my knowledge in **Python**, **Docker** and **AWS Services**.
 * 💻 I enjoy building robust back-end systems, working with databases, and developing RESTful APIs.
 * 📚 Always learning and improving — I want to explore new technologies and help others along the way.
 * 🧑 Pronouns: he/him (ele/dele)
