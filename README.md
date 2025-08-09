@@ -28,7 +28,7 @@ Feel free to check out my repositories and connect!
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
-  <img width="330" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalohenrique&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="330" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalohenrique&layout=compact&theme=tokyonight&cache_seconds=1800&v=2" alt="Top Languages" />
   <img width="410" height="180" src="https://github-readme-stats.vercel.app/api?username=goncalohenrique&show_icons=true&theme=tokyonight" alt="My GitHub Stats" />
   
 </p>
