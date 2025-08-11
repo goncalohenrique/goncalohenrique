@@ -26,7 +26,7 @@ Feel free to check out my repositories and connect!
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
-  <img width="610" height="280" src="https://github-readme-stats.vercel.app/api?username=goncalohenrique&show_icons=true&theme=tokyonight" alt="My GitHub Stats" />
+  <img width="510" height="210" src="https://github-readme-stats.vercel.app/api?username=goncalohenrique&show_icons=true&theme=tokyonight" alt="My GitHub Stats" />
 
 </p>
 
