@@ -18,7 +18,7 @@ I'm a passionate software developer from Brazil 🇧🇷, currently studying **S
   🐬 MySQL, 🐘 PostgreSQL, 🍃 MongoDB
 
 * Others:
-  🔄 RESTful APIs, 🐙 Git, 🐳 Docker (learning), ☁️ AWS (learning)
+  🔄 RESTful APIs, 🐙 Git, 🐳 Docker, ☁️ AWS (learning)
 ---
 
 Feel free to check out my repositories and connect!
