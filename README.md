@@ -7,8 +7,11 @@
   <br/>
 
   <a href="https://github.com/goncalohenrique">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=6474B9&vCenter=true&multiline=true&width=800&height=100&lines=I'm+a+passionate+software+developer+from+Brazil+🇧🇷;Currently+studying+Software+Engineering+at+PUCPR+(2025);Education:+Software+Development+at+COTIL-UNICAMP+(2022-24)" alt="Goncalo Bio" />
+<div align="center">
+  <a href="https://github.com/goncalohenrique">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=6474B9&center=true&vCenter=true&width=900&lines=I'm+a+passionate+software+developer+from+Brazil;Currently+studying+Software+Engineering+at+PUCPR+(2025-Current);Education:+Software+Development+at+COTIL-UNICAMP+(2022-2024)" alt="Goncalo Bio" />
   </a>
+</div>
 
 </div>
 
