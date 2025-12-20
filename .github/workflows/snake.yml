@@ -20,29 +20,42 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - uses: Platane/snk@v3
         with:
           # github user name to read the contribution graph from (**Required**)
           github_user_name: goncalohenrique
           
           # list of files to generate.
-          # one file per line. Each output can be customized with options as query string.
-          #
-          #  supported options:
-          #  - palette:     A preset of color, one of [github, github-dark, github-light]
-          #  - color_snake: Color of the snake
-          #  - color_dots:  Coma separated list of dots color.
-          #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-          #                 Exactly 5 colors are expected.
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: Push dist directory to output branch
-        run: git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/goncalohenrique/goncalohenrique.git output
+      - name: Commit dist directory to output branch and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Create or switch to the output branch
+          if git rev-parse --verify output >/dev/null 2>&1; then
+            git checkout output
+            git rm -rf . || true
+          else
+            git checkout --orphan output
+            git rm -rf . || true
+          fi
+
+          # Copy generated files from dist into repo root, commit and push
+          mkdir -p dist
+          cp -r dist/* . || true
+          git add -A
+          git commit -m "Update snake images" || echo "No changes to commit"
+          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/goncalohenrique/goncalohenrique.git" output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
