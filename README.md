@@ -1,4 +1,4 @@
-<a href="https://github.com/goncalohenrique"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Hello+World&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/goncalohenrique"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Hi+Guys&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
   
@@ -42,7 +42,7 @@
 
 </div>
 
-## <a href="https://github.com/goncalohenrique"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=85&height=20&lines=Socials" alt="Typing SVG" /></a>
+## <a href="https://github.com/goncalohenrique"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=85&height=20&lines=Contact-me" alt="Typing SVG" /></a>
 
 <div>
   <a href="https://www.linkedin.com/in/goncalo-henrique-da-cruz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
