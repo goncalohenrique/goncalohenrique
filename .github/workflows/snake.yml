@@ -42,7 +42,7 @@ jobs:
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
- - name: Push dist directory to output branch
-  run: git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/goncalohenrique/goncalohenrique.git output
-  env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push dist directory to output branch
+        run: git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/goncalohenrique/goncalohenrique.git output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
