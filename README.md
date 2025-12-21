@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://github.com/goncalohenrique">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=6474B9&vCenter=true&width=350&height=30&lines=MY+TECH+STACK"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=6474B9&center=true&vCenter=true&width=350&height=30&lines=MY+TECH+STACK"/>
   </a>
   
   <br/>
@@ -45,7 +45,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/goncalohenrique"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=150&height=30&lines=Contact+me" alt="Typing SVG" /></a>
+  <a href="https://github.com/goncalohenrique"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&center=true&vCenter=true&width=150&height=30&lines=Contact+me" alt="Typing SVG" /></a>
   <br/>
   
   <a href="https://www.linkedin.com/in/goncalo-henrique-da-cruz/" target="_blank">
@@ -55,9 +55,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=6474B9" alt="Gmail" />
   </a>
   
-  <br/><br/>
-  
-</div>
+  <br/>
+  </div>
 
 <a href="https://github.com/goncalohenrique">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&text=Always+Learning&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
