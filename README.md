@@ -7,11 +7,8 @@
   <br/>
 
   <a href="https://github.com/goncalohenrique">
-<div align="center">
-  <a href="https://github.com/goncalohenrique">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=6474B9&center=true&vCenter=true&width=900&lines=I'm+a+passionate+software+developer+from+Brazil;Currently+studying+Software+Engineering+at+PUCPR+(2025-Current);Education:+Software+Development+at+COTIL-UNICAMP+(2022-2024)" alt="Goncalo Bio" />
   </a>
-</div>
 
 </div>
 
@@ -34,21 +31,32 @@
 
 <div align="center">
   <a href="https://github.com/goncalohenrique">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=6474B9&vCenter=true&width=350&height=30&lines=MY+TECH+STACK"/></a>
-
-  | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3500&color=6474B9&vCenter=true&width=110&height=20&lines=Front-end" alt="Typing SVG" /></h2> | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=6474B9&vCenter=true&width=100&height=20&lines=Back-End" alt="Typing SVG" /></h2> |
-  | :-: | :-: |
-  | <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <br/> <img src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <br/> <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> | <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> |
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=6474B9&vCenter=true&width=350&height=30&lines=MY+TECH+STACK"/>
+  </a>
+  
+  <br/>
+  
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,java,cs,cpp,dotnet,spring&perline=9" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github&perline=9" />
 
 </div>
 
-## <a href="https://github.com/goncalohenrique"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=85&height=20&lines=Contact+me" alt="Typing SVG" /></a>
+<br/>
 
-<div>
-  <a href="https://www.linkedin.com/in/goncalo-henrique-da-cruz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-  <a href="mailto:goncalo.henrique.dev@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" /></a>
+<div align="center">
+  <a href="https://github.com/goncalohenrique"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=150&height=30&lines=Contact+me" alt="Typing SVG" /></a>
+  <br/>
   
-  <a href="https://github.com/goncalohenrique"><img align="right" src="https://visitcount.itsvg.in/api?id=goncalohenrique&label=Profile%20Views&color=12&icon=5&pretty=true" /></a>
+  <a href="https://www.linkedin.com/in/goncalo-henrique-da-cruz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=6474B9" alt="LinkedIn" />
+  </a> 
+  <a href="mailto:goncalo.henrique.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=6474B9" alt="Gmail" />
+  </a>
+  
+  <br/><br/>
+  
 </div>
 
 <a href="https://github.com/goncalohenrique">
