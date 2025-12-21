@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I+am+Gonçalo+Henrique;I'm+18+years+old;Software+Engineering+Student;Welcome!🎉)](https://github.com/goncalohenrique)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I+am+Gonçalo+Henrique;Software+Engineering+Student;Welcome!🎉)](https://github.com/goncalohenrique)
 
   <br/>
 
@@ -42,7 +42,7 @@
 
 </div>
 
-## <a href="https://github.com/goncalohenrique"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=85&height=20&lines=Contact-me" alt="Typing SVG" /></a>
+## <a href="https://github.com/goncalohenrique"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=85&height=20&lines=Contact+me" alt="Typing SVG" /></a>
 
 <div>
   <a href="https://www.linkedin.com/in/goncalo-henrique-da-cruz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
