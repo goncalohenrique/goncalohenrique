@@ -15,12 +15,13 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/goncalohenrique">
-    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=goncalohenrique&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&theme=transparent&include_all_commits=true&rank_icon=github" alt="Goncalo github stats" />
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalohenrique&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&theme=transparent" />
-  </a>
+  <a href="https://github.com/goncalohenrique">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=goncalohenrique&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&theme=transparent&include_all_commits=true&rank_icon=github" alt="Goncalo github stats" />
+    
+<img width="45%" src="https://github-readme-stats-alpha-azure-92.vercel.app/api/top-langs?username=goncalohenrique&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&theme=transparent" alt="Top Languages" />
+  </a>
 </div>
-
+    
 <br/>
 
 <div align="center">
