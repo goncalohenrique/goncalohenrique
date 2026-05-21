@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Opa+Name+Is+Gonçalo;Software+Engineering+Student)](https://github.com/goncalohenrique)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+Is+Gonçalo;Software+Engineering+Student)](https://github.com/goncalohenrique)
 
   <br/>
 
