@@ -30,18 +30,7 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/goncalohenrique">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=6474B9&center=true&vCenter=true&width=350&height=30&lines=MY+TECH+STACK"/>
-  </a>
-  
-  <br/>
-  
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,java,cs,cpp,dotnet,spring&perline=9" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github&perline=9" />
 
-</div>
 
 <br/>
 
