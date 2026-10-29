@@ -1,3 +1,4 @@
+<!--
 <a href="https://github.com/goncalohenrique"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Welcome+Guys!&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
@@ -13,7 +14,6 @@
 </div>
 
 <br/>
-<!--
 <div align="center">
   <a href="https://github.com/goncalohenrique">
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=goncalohenrique&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&theme=transparent&include_all_commits=true&rank_icon=github" alt="Goncalo github stats" />
@@ -29,7 +29,6 @@
 </div>
 
 <br/>
--->
 
 
 <br/>
@@ -51,3 +50,4 @@
 <a href="https://github.com/goncalohenrique">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&text=Thanks&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
 </a>
+-->
